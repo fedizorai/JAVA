@@ -1,0 +1,39 @@
+
+`	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112„"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112‰"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+O
+java:S1854œ"8Remove this useless assignment to local variable "penn".(îÆ«ÿ
+T
+java:S1854›"8Remove this useless assignment to local variable "dol1".(İ¶‡äùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¾„›§ıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(œª³ï
+@	java:S106"+Replace this use of System.out by a logger.(•©„ö
+V	java:S125%"<This block of commented-out lines of code should be removed.(ãª¬Ãüÿÿÿÿ
+Q	java:S125E"<This block of commented-out lines of code should be removed.(ÇÄƒì
+E	java:S106M"+Replace this use of System.out by a logger.(ùö ÷øÿÿÿÿ
+E	java:S106P"+Replace this use of System.out by a logger.(î¿ÿúÿÿÿÿ
+V	java:S125T"<This block of commented-out lines of code should be removed.(“§»Âøÿÿÿÿ
+P	java:S125]"<This block of commented-out lines of code should be removed.(êõ†
+
+@	java:S106l"+Replace this use of System.out by a logger.(çóæ
+E	java:S106n"+Replace this use of System.out by a logger.(šÌ¶£şÿÿÿÿ
+E	java:S106r"+Replace this use of System.out by a logger.(Ÿ×œÆÿÿÿÿÿ
+E	java:S106t"+Replace this use of System.out by a logger.(Ä‚ì÷ıÿÿÿÿ
+A	java:S106“"+Replace this use of System.out by a logger.(Î¯Òğ
+A	java:S106”"+Replace this use of System.out by a logger.(ê¶ş
+F	java:S106˜"+Replace this use of System.out by a logger.(úÛµ‹üÿÿÿÿ
+W	java:S125š"<This block of commented-out lines of code should be removed.(À»”¢üÿÿÿÿ
+E
+java:S1481›")Remove this unused "dol1" local variable.(İ¶‡äùÿÿÿÿ
+@
+java:S1481œ")Remove this unused "penn" local variable.(îÆ«ÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¿¨Îƒÿÿÿÿÿ
+F	java:S106¤"+Replace this use of System.out by a logger.(Çìíøÿÿÿÿ
+W	java:S125£"<This block of commented-out lines of code should be removed.(”Ù¿Şüÿÿÿÿ
+F	java:S106¥"+Replace this use of System.out by a logger.(¨‡™Ÿøÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(ºŸŸÕşÿÿÿÿ
